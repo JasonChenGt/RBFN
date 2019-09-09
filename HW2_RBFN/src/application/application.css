@@ -1,0 +1,18 @@
+.default-color0.chart-series-line { -fx-stroke: transparent; }
+.default-color1.chart-series-line { -fx-stroke: transparent; }
+.default-color2.chart-series-line { 
+	-fx-stroke: red;
+	-fx-stroke-width: 2.5px ;
+}
+
+.default-color0.chart-line-symbol { 
+	-fx-padding: 4.5px;
+    -fx-background-color: transparent, green; 
+}
+.default-color1.chart-line-symbol {
+	-fx-padding: 4.5px;
+    -fx-background-color: transparent, blue; 
+}
+.default-color2.chart-line-symbol {
+    -fx-background-color: transparent, transparent; 
+}
